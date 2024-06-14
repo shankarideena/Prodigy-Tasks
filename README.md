@@ -51,16 +51,10 @@ You can customise the visualisation by making the following modifications to the
 # Examples
 Here's an example of how the age distribution bar chart might look:
 
-![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/d0e7f634-3c89-4988-bf48-a44aaec416c7)
+
 
 
 
 Age Distribution Bar Chart
-
-# Contributing
-If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
