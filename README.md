@@ -4,15 +4,6 @@ Creating a Bar or Histogram Visualization
 You can use this code to create a bar or histogram visualization of the distribution of a categorical or continuous variable in your population dataset. For example, you can visualize the distribution of ages or gender in the population.
 ### Population Age Distribution Visualization
 This project allows you to create a bar chart to visualize the age distribution within a population dataset. It's a tool for gaining insights into the age demographics of a population.
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
   
 ## Introduction
 Understanding the distribution of ages within a population is crucial for various analyses and decision-making processes. This project simplifies the process by providing a Python script to create a bar chart visualisation.
@@ -48,13 +39,11 @@ You can customise the visualisation by making the following modifications to the
 - Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
 - Adjust the appearance of the bar chart, such as labels, colours, and size, to suit your preferences.
 
-# Examples
-Here's an example of how the age distribution bar chart might look:
 
 
 
 
 
-Age Distribution Bar Chart
+
 
 
